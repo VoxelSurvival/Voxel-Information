@@ -1,7 +1,7 @@
 notes-
-building blokcs only used for building have close buy/sell amount
+building blocks only used for building have close buy/sell amount
 products that are less useful than the material/rarity of the material are cheaper
-things that are easy to get are cheap, but if you dont have them (meanig you wanna buy) then theyre
+things that are easy to get are cheap, but if you dont have them (meaning you wanna buy) then they're
 more expensive
 
 
